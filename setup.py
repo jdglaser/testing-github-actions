@@ -15,7 +15,6 @@ def main():
         name=app.__project__,
         version=app.__version__,
         description=app.__doc__,
-        long_description=read('README.rst'),
         classifiers=app.__classifiers__,
         author=app.__author__,
         author_email=app.__author_email__,
