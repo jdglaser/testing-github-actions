@@ -3,7 +3,7 @@
 from __future__ import absolute_import
 from .dad_jokes import get_joke
 
-__project__ = "test-github-actions"
+__project__ = "test-github-actions-jg"
 __version__ = "develop"
 __keywords__ = ["jokes", "joke", "dadjokes"]
 __author__ = "Jarred Glaser"
