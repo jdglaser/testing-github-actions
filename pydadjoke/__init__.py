@@ -18,7 +18,7 @@ __classifiers__ = [
     'License :: OSI Approved :: MIT License'
 ]
 
-__requires__ = []
+__requires__ = ["pandas"]
 
 __extra_requires__ = {
 }
