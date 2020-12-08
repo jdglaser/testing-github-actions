@@ -1,7 +1,6 @@
 "Dad jokes in Python"
 
 from __future__ import absolute_import
-import pandas as pd
 from .dad_jokes import get_joke
 
 __project__ = "test-github-actions-jg"
